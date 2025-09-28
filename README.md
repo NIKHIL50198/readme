@@ -28,7 +28,7 @@
 - [Excel-Sales-Analytics-Project](https://github.com/NIKHIL50198/Excel-Sales-Analytics-Project):  
   <sub>Advanced Excel dashboards and sales analytics automations.</sub>
 
----
+- [SQL_AdHoc_Analysis_Project](https://github.com/NIKHIL50198/SQL_AdHoc_Analysis_Project)
 
 ## 🛠️ Skills & Tools
 
